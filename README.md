@@ -3,6 +3,10 @@
 The goal of testsvgz is to provide a reprex pkg for adding compressed SVG
 support to testthat and vdiffr.
 
+<!-- badges: start -->
+[![R-CMD-check](https://github.com/gavinsimpson/testsvgz/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/gavinsimpson/testsvgz/actions/workflows/R-CMD-check.yaml)
+<!-- badges: end -->
+
 ## Installation
 
 You can install the development version of testsvgz like so:
